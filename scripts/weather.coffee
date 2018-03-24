@@ -7,7 +7,7 @@
 #   HUBOT_WEATHER_BIT_API_KEY
 #
 # Commands:
-#   meridthhubot <zipcode> - get weather for the zip code
+#   jarvis <zipcode> - get weather for the zip code
 #
 # Notes:
 #   N/A
