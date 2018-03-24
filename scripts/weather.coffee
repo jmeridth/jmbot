@@ -4,7 +4,7 @@
 # Dependencies:
 #
 # Configuration:
-#   WEATHER_BIT_API_KEY
+#   HUBOT_WEATHER_BIT_API_KEY
 #
 # Commands:
 #   meridthhubot <zipcode> - get weather for the zip code
@@ -15,7 +15,7 @@
 # Author:
 #   jmeridth
 
-weather_bit_api_key = process.env.WEATHER_BIT_API_KEY or ''
+weather_bit_api_key = process.env.HUBOT_WEATHER_BIT_API_KEY or ''
 
 module.exports = (robot) ->
   robot.hear /[0-9]{5}/, (msg) ->
