@@ -30,5 +30,4 @@ module.exports = (robot) ->
         catch error
           msg.send "Something went wrong :thinking_face:"
           robot.logger.error "Error occurred trying to get zipcode #{zip_code}.  Error: #{err}"
-        msg.send data.data[0].city_name
         msg.send "The current weather for #{data.data[0].city_name} is #{data.data[0].weather.description} with a temperature of #{data.data[0].temp} Fahrenheit"
