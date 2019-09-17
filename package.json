@@ -7,7 +7,7 @@
   "dependencies": {
     "debug": "^4.1.1",
     "fresh": "^0.5.2",
-    "hubot": "^2.19.0",
+    "hubot": "^3.3.2",
     "hubot-diagnostics": "0.0.2",
     "hubot-google-images": "^0.2.7",
     "hubot-google-translate": "^0.2.1",
@@ -21,9 +21,9 @@
     "hubot-shipit": "^0.2.1",
     "hubot-slack": "^4.4.0",
     "mime": "^2.4.0",
+    "morgan": "~>1.9.1",
     "negotiator": "^0.6.1",
-    "npm": "^5.10.0",
-    "morgan": "~>1.9.1"
+    "npm": "^6.11.3"
   },
   "engines": {
     "node": "4.7.0"
