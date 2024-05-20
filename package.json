@@ -5,7 +5,7 @@
   "author": "jmeridth <jmeridth@gmail.com>",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "fresh": "^0.5.2",
     "http-proxy-agent": ">=2.2.3",
     "hubot": "^3.3.2",
