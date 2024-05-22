@@ -1,34 +1,10 @@
 {
-  "name": "jarvis",
+  "name": "jmbot",
   "version": "0.0.1",
   "private": true,
   "author": "jmeridth <jmeridth@gmail.com>",
-  "description": "A simple helpful robot for your Company",
+  "description": "A simple helpful chatbot",
   "dependencies": {
-    "debug": "^4.1.1",
-    "fresh": "^0.5.2",
-    "http-proxy-agent": ">=2.2.3",
-    "hubot": "^3.3.2",
-    "hubot-diagnostics": "0.0.2",
-    "hubot-google-images": "^0.2.7",
-    "hubot-google-translate": "^0.2.1",
-    "hubot-help": "^0.2.2",
-    "hubot-heroku-keepalive": "^1.0.3",
-    "hubot-maps": "0.0.3",
-    "hubot-pugme": "^0.1.1",
-    "hubot-redis-brain": "0.0.4",
-    "hubot-rules": "^0.1.2",
-    "hubot-scripts": "^2.17.2",
-    "hubot-shipit": "^0.2.1",
-    "hubot-slack": "^4.7.2",
-    "mime": "^2.4.0",
-    "morgan": "~>1.9.1",
-    "negotiator": "^0.6.1",
-    "npm": "^6.14.6",
-    "redis": ">=3.1.1",
-    "ws": ">=3.3.1"
-  },
-  "engines": {
-    "node": "4.7.0"
+    "hubot": "^11.1.6"
   }
 }
