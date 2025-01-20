@@ -5,6 +5,6 @@
   "author": "jmeridth <jmeridth@gmail.com>",
   "description": "A simple helpful chatbot",
   "dependencies": {
-    "hubot": "^11.3.2"
+    "hubot": "^11.3.3"
   }
 }
